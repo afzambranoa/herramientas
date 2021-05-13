@@ -1,0 +1,174 @@
+﻿{
+    "Id": "e1134d51-6ce5-49e1-8612-49b11eb5b4ae",
+    "Url": "www.epdata.es/porcentaje-camas-hospital-ocupadas-pacientes-covid-19-cada-comunidad/e1134d51-6ce5-49e1-8612-49b11eb5b4ae",
+    "Titulo": "Porcentaje de camas de hospital ocupadas por pacientes Covid-19 en cada comunidad",
+    "Subtitulo": "La media de España se sitúa en  6,47% el día 11 de mayo de 2021",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Coronavirus a nivel diario - % de camas usadas por pacientes Covid-19 en hospitales para Andalucía, Aragón, Asturias, Canarias, Cantabria, Castilla y León, Castilla-La Mancha, Cataluña, Ceuta, Comunidad Valenciana, Extremadura, Galicia, Islas Baleares, La Rioja, Madrid, Melilla, Murcia, Navarra, País Vasco como comunidad autónoma",
+                "SonDatosNumericos": true,
+                "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+                "Clasificacion": null,
+                "Unidad": "% de camas usadas por pacientes Covid-19 en hospitales",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Andalucía",
+                        "Valor": 6.52,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Aragón",
+                        "Valor": 8.81,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Asturias",
+                        "Valor": 4.44,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Canarias",
+                        "Valor": 3.78,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Cantabria",
+                        "Valor": 6.86,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Castilla y León",
+                        "Valor": 5.88,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Castilla-La Mancha",
+                        "Valor": 8.26,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Cataluña",
+                        "Valor": 6.36,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Ceuta",
+                        "Valor": 9.05,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Comunidad Valenciana",
+                        "Valor": 1.36,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Extremadura",
+                        "Valor": 1.9,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Galicia",
+                        "Valor": 2.34,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Islas Baleares",
+                        "Valor": 1.61,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "La Rioja",
+                        "Valor": 9.82,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Madrid",
+                        "Valor": 13.09,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Melilla",
+                        "Valor": 9.34,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Murcia",
+                        "Valor": 1.82,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Navarra",
+                        "Valor": 6.11,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "País Vasco",
+                        "Valor": 13,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
